@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "net.backupcup.stainedlenses.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "common.ItemMixin",
+    "common.LivingEntityMixin",
+    "common.PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "client.AbstractCPlayerEntityMixin",
+    "client.BipedEntityModel",
+    "client.GameRendererMixin",
+    "client.InGameHudMixin",
+    "client.KeybindingAccessor",
+    "client.MinecraftClientMixin",
+    "client.MouseMixin",
+    "client.PlayerHeldItemFeatureRendererMixin",
+    "client.SpyglassItemMixin"
+  ]
+}

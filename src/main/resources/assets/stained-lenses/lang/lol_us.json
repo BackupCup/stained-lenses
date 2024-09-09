@@ -1,0 +1,42 @@
+{
+  "container.stained-lenses.spyglass_tinkery": "Tube Invention Box",
+
+  "category.stained-lenses.keybinding_category": "STAIND LENSEZ",
+  "key.stained-lenses.open_spyglass_tinkery": "Open Tube Invention Box",
+
+  "itemGroup.stained-lenses.modifiers": "STAIND LENSEZ",
+
+  "item.stained-lenses.default_lens": "Noomal Kitteh View",
+  "item.stained-lenses.default_lens.desc": "Made by ClearView Inc, dis lens offerz clear vision n'strictly not cosigned fur any unauthorized tweakin'",
+  "item.stained-lenses.marked_lens": "Hunter's Mark Lens, meow!",
+  "item.stained-lenses.marked_lens.desc": "MaRkS sEeN mObS, mAkIn ThEm tAkE mOr DaMaGe FrUm dUh UsEr",
+  "item.stained-lenses.entity_lens": "Spectralz Magix Lens",
+  "item.stained-lenses.entity_lens.desc": "Hai-5 mobs thru wals, showing da sneaky hoomans",
+  "item.stained-lenses.focal_lens": "Sunbeam Gogglez",
+  "item.stained-lenses.focal_lens.desc": "Me boutta introduz teh nearest creaturch to teh powerz of teh vawwy shinin sun (i gotz bored)",
+
+  "item.stained-lenses.sulfur_sight_lens": "Sulfer Siet Lens",
+  "item.stained-lenses.sulfur_sight_lens.desc": "See da world in eerie green hues, like viewed thru a creeper's eyez",
+  "item.stained-lenses.phantom_vision_lens": "Invisibul Eyez Glass",
+  "item.stained-lenses.phantom_vision_lens.desc": "Xperience reality warp in weird wayz, similar to an enderman's unsettling view",
+  "item.stained-lenses.silk_sight_lens": "Silk Spy Eyeball",
+  "item.stained-lenses.silk_sight_lens.desc": "Viewz multiple perspectives all at once, liek a spoder's many facets",
+
+  "item.stained-lenses.zoom_wheel": "Zooom Wh33l",
+  "tooltip.stained-lenses.zoom_wheel.desc": "Zooms in an out fur exact viewing",
+  "item.stained-lenses.distance_measurer": "DisTanz Meowa",
+  "tooltip.stained-lenses.distance_measurer.desc": "Shows da distance to da targeted block or thing",
+  "item.stained-lenses.proximity_spotter": "Purrazy Spotah",
+  "tooltip.stained-lenses.proximity_spotter.desc": "Points out nearby thingies within certain range",
+
+  "tooltip.stained-lenses.hold_crouch": "Hold [%s] fur seein Modifiers",
+  "tooltip.stained-lenses.hold_crouch_desc": "Hold [%s] fur seein Descrption",
+  "tooltip.stained-lenses.installed_lens": "Instald Lens:",
+  "tooltip.stained-lenses.installed_module": "Instald Module:",
+  "tooltip.stained-lenses.display_line": "- %s",
+  "tooltip.stained-lenses.none": "Nuh-uh",
+  "tooltip.stained-lenses.zoom": "Zooom: %sx",
+  "tooltip.stained-lenses.distance": "DisTanz: %sm",
+  "tooltip.stained-lenses.infinite": "\u221e"
+}
+

@@ -1,0 +1,55 @@
+{
+  "container.stained-lenses.spyglass_tinkery": "Spyglass Tinkery",
+
+  "category.stained-lenses.keybinding_category": "Stained Lenses",
+  "key.stained-lenses.open_spyglass_tinkery": "Open Spyglass Tinkery",
+
+  "itemGroup.stained-lenses.modifiers": "Stained Lenses",
+
+  "death.attack.sunfire": "%1$s turned into searing ashes",
+  "death.attack.sunfire.player": "%1$s turned into searing ashes by %2$s",
+
+  "item.stained-lenses.attachement_pouch": "Attachement Pouch",
+  "item.stained-lenses.attachement_pouch.desc": "Stores Modules and Lenses inside, can be accessed through the Spyglass Inventory",
+
+  "item.stained-lenses.default_lens": "Default Lens",
+  "item.stained-lenses.default_lens.desc": "Manufactured by ClearView Inc, this lens offers clear vision and is strictly not endorsed for any unauthorized modifications",
+  "item.stained-lenses.marked_lens": "Hunter's Mark Lens",
+  "item.stained-lenses.marked_lens.desc": "Marks seen mobs, making them take more damage from the user",
+  "item.stained-lenses.entity_lens": "Spectral Lens",
+  "item.stained-lenses.entity_lens.desc": "Highlights mobs through walls, revealing their hidden presence",
+  "item.stained-lenses.ethereal_lens": "Ethereal Lens",
+  "item.stained-lenses.ethereal_lens.desc": "Enables Ethereal Sight, showing hidden blocks",
+  "item.stained-lenses.focal_lens": "Sunfire Lens",
+  "item.stained-lenses.focal_lens.desc": "Charges in sunlight to unleash beams of concentrated light, destroying anything in its path",
+  "item.stained-lenses.focal_lens.desc_use": "- Hold [%s] while using the Spyglass to collect charge and unleash a powerful beam.",
+
+  "item.stained-lenses.sulfur_sight_lens": "Sulfur Sight Lens",
+  "item.stained-lenses.sulfur_sight_lens.desc": "See the world in eerie green hues, as if viewed through a creeper's eyes",
+  "item.stained-lenses.phantom_vision_lens": "Phantom Vision Lens",
+  "item.stained-lenses.phantom_vision_lens.desc": "Experience reality warp in strange ways, akin to an enderman's unsettling perspective",
+  "item.stained-lenses.silk_sight_lens": "Silk Sight Lens",
+  "item.stained-lenses.silk_sight_lens.desc": "View multiple perspectives simultaneously, like a spider's multifaceted vision",
+
+  "item.stained-lenses.zoom_wheel": "Zoom Wheel",
+  "tooltip.stained-lenses.zoom_wheel.desc": "Adjustable zoom levels for precise viewing",
+  "item.stained-lenses.distance_measurer": "Distance Measurer",
+  "tooltip.stained-lenses.distance_measurer.desc": "Displays the distance to the targeted block or entity",
+  "item.stained-lenses.proximity_spotter": "Proximity Spotter",
+  "tooltip.stained-lenses.proximity_spotter.desc": "Highlights nearby entities within a certain range",
+  "item.stained-lenses.vibration_silencer": "Vibration Silencer",
+  "tooltip.stained-lenses.vibration_silencer.desc": "Blocks the vibrations that the Spyglass creates when it's used",
+
+  "block.stained-lenses.ethereal_block": "Ethereal Block",
+  "block.stained-lenses.ethereal_block.desc": "A block that is only visible with Ethereal Sight",
+
+  "tooltip.stained-lenses.hold_crouch": "Hold [%s] to see Modifiers",
+  "tooltip.stained-lenses.hold_crouch_desc": "Hold [%s] to see Description",
+  "tooltip.stained-lenses.installed_lens": "Installed Lens:",
+  "tooltip.stained-lenses.installed_module": "Installed Module:",
+  "tooltip.stained-lenses.display_line": "- %s",
+  "tooltip.stained-lenses.none": "None",
+  "tooltip.stained-lenses.zoom": "Zoom: %sx",
+  "tooltip.stained-lenses.distance": "Distance: %sm",
+  "tooltip.stained-lenses.infinite": "\u221e"
+}

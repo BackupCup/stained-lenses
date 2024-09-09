@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "P": {
+      "tag": "c:glass_panes"
+    }
+  },
+  "pattern": [
+    "PGP"
+  ],
+  "result": {
+    "item": "stained-lenses:default_lens"
+  },
+  "show_notification": true
+}

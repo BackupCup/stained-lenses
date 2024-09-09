@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "H": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "HHH",
+    "ICL",
+    "LLL"
+  ],
+  "result": {
+    "item": "stained-lenses:attachement_pouch"
+  },
+  "show_notification": true
+}

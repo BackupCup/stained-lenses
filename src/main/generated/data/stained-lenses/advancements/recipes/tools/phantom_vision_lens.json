@@ -1,0 +1,48 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_default_lens": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stained-lenses:default_lens"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_phantom_vision_lens": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stained-lenses:phantom_vision_lens"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stained-lenses:phantom_vision_lens"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_phantom_vision_lens",
+      "has_default_lens",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stained-lenses:phantom_vision_lens"
+    ]
+  },
+  "sends_telemetry_event": false
+}

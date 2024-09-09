@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    }
+  },
+  "pattern": [
+    "ISI",
+    " R ",
+    "CRC"
+  ],
+  "result": {
+    "item": "stained-lenses:proximity_spotter"
+  },
+  "show_notification": true
+}

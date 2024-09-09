@@ -1,0 +1,61 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_default_lens": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stained-lenses:default_lens"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_echo_shard": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:echo_shard"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_entity_lens": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "stained-lenses:entity_lens"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "stained-lenses:entity_lens"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_entity_lens",
+      "has_default_lens",
+      "has_echo_shard",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "stained-lenses:entity_lens"
+    ]
+  },
+  "sends_telemetry_event": false
+}

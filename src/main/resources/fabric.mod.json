@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "stained-lenses",
+	"version": "${version}",
+	"name": "Stained Lenses",
+	"description": "Make spyglasses truly useful with customizable lenses and modules for enhanced functionality",
+	"authors": [
+		"BackupCup"
+	],
+	"contact": {
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/stained-lenses"
+	},
+	"license": "Timefall License 1.2",
+	"icon": "assets/stained-lenses/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "net.backupcup.stainedlenses.StainedLenses",
+				"adapter": "kotlin"
+			}
+		],
+		"client": [
+			{
+				"value": "net.backupcup.stainedlenses.StainedLensesClient",
+				"adapter": "kotlin"
+			}
+		],
+		"fabric-datagen": [
+			{
+				"value": "net.backupcup.stainedlenses.StainedLensesDataGenerator",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"stained-lenses.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*",
+
+		"lodestone": ">=1.20.1-1.6.2.1",
+		"trinkets": ">=3.7.2"
+	}
+}

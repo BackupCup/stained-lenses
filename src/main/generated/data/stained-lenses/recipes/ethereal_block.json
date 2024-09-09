@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "G": {
+      "tag": "c:glass_blocks"
+    },
+    "P": {
+      "tag": "c:glass_panes"
+    }
+  },
+  "pattern": [
+    " P ",
+    "EGE",
+    " P "
+  ],
+  "result": {
+    "count": 4,
+    "item": "stained-lenses:ethereal_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:recovery_compass"
+    },
+    "L": {
+      "item": "stained-lenses:default_lens"
+    },
+    "N": {
+      "item": "minecraft:ender_eye"
+    },
+    "S": {
+      "tag": "c:heads"
+    }
+  },
+  "pattern": [
+    " N ",
+    "SLC",
+    " N "
+  ],
+  "result": {
+    "item": "stained-lenses:entity_lens"
+  },
+  "show_notification": true
+}

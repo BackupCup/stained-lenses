@@ -1,0 +1,17 @@
+{
+  "spyglass_zoom": {
+    "sounds": [
+      "stained-lenses:spyglass_zoom"
+    ]
+  },
+  "sunfire_beam_loop": {
+    "sounds": [
+      "stained-lenses:sunfire_beam_loop"
+    ]
+  },
+  "sunfire_charge_loop": {
+    "sounds": [
+      "stained-lenses:sunfire_charge_loop"
+    ]
+  }
+}

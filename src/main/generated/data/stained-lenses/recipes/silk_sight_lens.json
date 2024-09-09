@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "minecraft:spider_eye"
+    },
+    "L": {
+      "item": "stained-lenses:default_lens"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "ESE",
+    "ELE",
+    "ESE"
+  ],
+  "result": {
+    "item": "stained-lenses:silk_sight_lens"
+  },
+  "show_notification": true
+}

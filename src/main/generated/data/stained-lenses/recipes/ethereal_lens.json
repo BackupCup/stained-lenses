@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:experience_bottle"
+    },
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "L": {
+      "item": "stained-lenses:default_lens"
+    }
+  },
+  "pattern": [
+    " B ",
+    "ELE",
+    " B "
+  ],
+  "result": {
+    "item": "stained-lenses:ethereal_lens"
+  },
+  "show_notification": true
+}

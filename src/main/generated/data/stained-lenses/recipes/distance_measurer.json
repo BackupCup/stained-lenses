@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "RCC",
+    "ORC",
+    "RCC"
+  ],
+  "result": {
+    "item": "stained-lenses:distance_measurer"
+  },
+  "show_notification": true
+}

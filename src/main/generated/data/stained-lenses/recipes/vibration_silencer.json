@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "WSW",
+    "CCC"
+  ],
+  "result": {
+    "item": "stained-lenses:vibration_silencer"
+  },
+  "show_notification": true
+}
